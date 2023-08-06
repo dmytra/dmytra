@@ -1,9 +1,6 @@
-**Hi, I'm Dmytra 👋**
-<img width="968" alt="Screenshot 2023-08-04 at 01 43 35" src="https://github.com/dmytra/dmytra/assets/105235692/c961631f-104f-4c5a-bc6c-cfb1b2d808be">
-
+<img width="968" alt="258253222-c961631f-104f-4c5a-bc6c-cfb1b2d808be" src="https://github.com/dmytra/dmytra/assets/105235692/6cafbe83-001f-4bee-bdfe-a672d0f99007">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytra&layout=compact)
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
