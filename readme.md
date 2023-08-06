@@ -1,5 +1,5 @@
 <img width="968" alt="258253222-c961631f-104f-4c5a-bc6c-cfb1b2d808be" src="https://github.com/dmytra/dmytra/assets/105235692/1ca7e519-e5ca-43ba-9e17-a7ade03bd370">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/dmytra/github-readme-stats)
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
