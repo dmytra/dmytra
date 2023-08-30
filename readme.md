@@ -4,13 +4,13 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/dmytra/github-readme-stats)
   
 </td><td>
-
-  I am a C++/Qt/QML Programmer from Ukraine.
+I am a C++/Qt/QML Programmer from Ukraine.
 
 🏡 Blog：dmytra.github.io
+
 💬 Mail：dmytra@gmail.com
-⚡ Technologies
-C  C++  Qt  MacOS  
+
+⚡ Technologies  C  C++  Qt  MacOS  
 
 </td></tr></table>
 
