@@ -1,5 +1,4 @@
-<img width="968" alt="258253222-c961631f-104f-4c5a-bc6c-cfb1b2d808be" src="https://github.com/dmytra/dmytra/assets/105235692/1ca7e519-e5ca-43ba-9e17-a7ade03bd370">
-
+<img width="968" alt="258662523-1ca7e519-e5ca-43ba-9e17-a7ade03bd370" src="https://github.com/dmytra/dmytra/assets/105235692/6878a4f0-b2ec-4295-a217-f4326f9b6923">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/dmytra/github-readme-stats)
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
