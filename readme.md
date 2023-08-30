@@ -4,7 +4,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/dmytra/github-readme-stats)
   
 </td><td>
-
+<br>
   
 <blockquote>
 <p dir="auto">I am a C++/Qt for macOS Programmer from Ukraine.</p>
