@@ -1,5 +1,5 @@
 <img width="968" alt="258662523-1ca7e519-e5ca-43ba-9e17-a7ade03bd370" src="https://github.com/dmytra/dmytra/assets/105235692/6878a4f0-b2ec-4295-a217-f4326f9b6923">
-<table border="0" cellspacing="0" cellpadding="0"><tr><td> 
+<table style="border-spacing: 3px; overflow: hidden; position: relative"><tr><td> 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/dmytra/github-readme-stats)
   
