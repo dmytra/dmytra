@@ -6,9 +6,9 @@
 </td><td>
 I am a C++/Qt/QML Programmer from Ukraine.
 
-🏡 Blog：dmytra.github.io
+🏡 Blog：dmytra.github.io <br>
 
-💬 Mail：dmytra@gmail.com
+💬 Mail：dmytra@gmail.com <br>
 
 ⚡ Technologies  C  C++  Qt  MacOS  
 
