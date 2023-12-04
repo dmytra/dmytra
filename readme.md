@@ -46,10 +46,16 @@
     </a>
 
 **RECOMMENDED repository:**
+
 1 futhark add for mobile https://github.com/dmytra/futhark
+
 2 rune_convert: convert Rune to ENGLISH! https://github.com/dmytra/rune_converter
+
 3 ТЕСТ для Android arm «На Урок» Географія 9 клас https://github.com/dmytra/tested-for-gegraphy-9-class-ukr
+
 4 частотний анализ букв у " Популярні призвища та імена України " https://github.com/dmytra/db_ua_famile_stat_charts
+
 5 Частотний аналіз українського тексту https://github.com/dmytra/text_chast_analiz_for_ukr
+
 6 macdeployqt_batch ПАКЕТНАЯ ОБРАБОТКА macdeployqt и создание -dmg https://github.com/dmytra/macdeployqt_batch
 
