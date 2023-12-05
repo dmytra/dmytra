@@ -47,7 +47,7 @@
 <hr>
 <b>PORTFOLIO:</b> N/A 
 <hr>
-<b>RECOMMENDED repository for viewing:</b> <br>
+<b>RECOMMENDED repository for viewing work:</b> <br>
 1 futhark add for mobile https://github.com/dmytra/futhark  <br>
 2 rune_convert: convert Rune to ENGLISH! https://github.com/dmytra/rune_converter <br>
 3 ТЕСТ для Android arm «На Урок» Географія 9 клас https://github.com/dmytra/tested-for-gegraphy-9-class-ukr <br>
@@ -55,4 +55,8 @@
 5 Частотний аналіз українського тексту https://github.com/dmytra/text_chast_analiz_for_ukr <br>
 6 macdeployqt_batch ПАКЕТНАЯ ОБРАБОТКА macdeployqt и создание -dmg https://github.com/dmytra/macdeployqt_batch <hr>
 <b>RECOMMENDED repository for STADY:</b> <br>
-1 ...
+1 Cpp17-STL-Cookbook https://github.com/dmytra/Cpp17-STL-Cookbook  <br>
+2 levonoganesyan/Algorithms https://github.com/dmytra/Algorithms  <br>
+3 переработанний курс "Продвинутый курс С++ (2020)" https://github.com/dmytra/Prodvinutiy-kurs-C-2020-  <br>
+4 Qt 6. Разработка оконных приложений на C++ https://github.com/dmytra/Qt_6__Razrabotka_okonnyh_prilozhenii-_na_Cpp  <br>
+5 Программирование на языке С++ в среде Qt Creator https://github.com/dmytra/Programmirovanie_na_jazyke_-_v_srede_Qt_Creator  <br>
