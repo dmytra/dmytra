@@ -57,6 +57,6 @@
 <b>RECOMMENDED repository for STADY:</b> <br>
 1 forked : Cpp17-STL-Cookbook https://github.com/dmytra/Cpp17-STL-Cookbook  <br>
 2 forked : levonoganesyan/Algorithms https://github.com/dmytra/Algorithms  <br>
-3 rewritten code : переработанний курс "Продвинутый курс С++ (2020)" https://github.com/dmytra/Prodvinutiy-kurs-C-2020-  <br>
-4 rewritten code : Qt 6. Разработка оконных приложений на C++ https://github.com/dmytra/Qt_6__Razrabotka_okonnyh_prilozhenii-_na_Cpp  <br>
-5 rewritten code : Программирование на языке С++ в среде Qt Creator https://github.com/dmytra/Programmirovanie_na_jazyke_-_v_srede_Qt_Creator  <br>
+3 rewritten code : переработанний курс "Продвинутый курс С++ (2020)" Prodvinutiy-kurs-C-2020-  <br>
+4 rewritten code : Qt 6. Разработка оконных приложений на C++ Qt_6__Razrabotka_okonnyh_prilozhenii-_na_Cpp  <br>
+5 rewritten code : Программирование на языке С++ в среде Qt Creator Programmirovanie_na_jazyke_-_v_srede_Qt_Creator  <br>
