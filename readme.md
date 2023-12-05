@@ -44,13 +44,15 @@
     <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
     </a>
-**PORTFOLIO:** N/A <hr>    
-**RECOMMENDED repository for viewing:** <br>
+<hr>
+<b>PORTFOLIO:</b> N/A 
+<hr>
+<b>RECOMMENDED repository for viewing:</b> <br>
 1 futhark add for mobile https://github.com/dmytra/futhark  <br>
 2 rune_convert: convert Rune to ENGLISH! https://github.com/dmytra/rune_converter <br>
 3 ТЕСТ для Android arm «На Урок» Географія 9 клас https://github.com/dmytra/tested-for-gegraphy-9-class-ukr <br>
 4 частотний анализ букв у " Популярні призвища та імена України " https://github.com/dmytra/db_ua_famile_stat_charts <br>
 5 Частотний аналіз українського тексту https://github.com/dmytra/text_chast_analiz_for_ukr <br>
 6 macdeployqt_batch ПАКЕТНАЯ ОБРАБОТКА macdeployqt и создание -dmg https://github.com/dmytra/macdeployqt_batch <hr>
-**RECOMMENDED repository for STADY:** <br>
+<b>RECOMMENDED repository for STADY:</b> <br>
 1 ...
