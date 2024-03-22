@@ -44,15 +44,16 @@
 <hr>
 <b>PORTFOLIO:</b> N/A 
 <hr>
-<b>RECOMMENDED repository for viewing work:</b> <br>=
-    00 <a traget=_blank href=https://github.com/dmytra/Password_generator_entropy>Password_generator_entropy</a>
-0 <a traget=_blank href=https://github.com/dmytra/rune_list_notes>rune_list_notes</a>
-1 futhark add for mobile https://github.com/dmytra/futhark  <br>
-2 rune_convert: convert Rune to ENGLISH! https://github.com/dmytra/rune_converter <br>
-3 ТЕСТ для Android arm «На Урок» Географія 9 клас https://github.com/dmytra/tested-for-gegraphy-9-class-ukr <br>
-4 частотний анализ букв у " Популярні призвища та імена України " https://github.com/dmytra/db_ua_famile_stat_charts <br>
-5 Частотний аналіз українського тексту https://github.com/dmytra/text_chast_analiz_for_ukr <br>
-6 macdeployqt_batch ПАКЕТНАЯ ОБРАБОТКА macdeployqt и создание -dmg https://github.com/dmytra/macdeployqt_batch <hr>
+<b>RECOMMENDED repository for viewing work:</b> <br>
+1 <a traget=_blank href=https://github.com/dmytra/Password_generator_entropy>Password_generator_entropy</a>
+2 <a traget=_blank href=https://github.com/dmytra/rune_list_notes>rune_list_notes</a>
+3 <a traget=_blank href=https://github.com/dmytra/futhark>futhark add for mobile   </a>
+4 <a traget=_blank href=https://github.com/dmytra/rune_converter>rune_convert: convert Rune to ENGLISH!  </a>
+5 <a traget=_blank href=https://github.com/dmytra/tested-for-gegraphy-9-class-ukr>ТЕСТ для Android arm «На Урок» Географія 9 клас </a>
+6 <a traget=_blank href=https://github.com/dmytra/db_ua_famile_stat_charts>частотний анализ букв у " Популярні призвища та імена України " </a>
+7 <a traget=_blank href=https://github.com/dmytra/text_chast_analiz_for_ukr>Частотний аналіз українського тексту  </a>
+8 <a traget=_blank href=https://github.com/dmytra/macdeployqt_batch>macdeployqt_batch> ПАКЕТНАЯ ОБРАБОТКА macdeploy qt и создание -dmg  </a>
+<hr>
 <b>RECOMMENDED repository for STADY:</b> <br>
 1 forked : Cpp17-STL-Cookbook https://github.com/dmytra/Cpp17-STL-Cookbook  <br>
 2 forked : levonoganesyan/Algorithms https://github.com/dmytra/Algorithms  <br>
