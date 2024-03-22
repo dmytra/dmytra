@@ -45,7 +45,8 @@
 <b>PORTFOLIO:</b> N/A 
 <hr>
 <b>RECOMMENDED repository for viewing work:</b> <br>=
-0 rune_list_notes https://github.com/dmytra/rune_list_notes
+    00 <a traget=_blank href=https://github.com/dmytra/Password_generator_entropy>Password_generator_entropy</a>
+0 <a traget=_blank href=https://github.com/dmytra/rune_list_notes>rune_list_notes</a>
 1 futhark add for mobile https://github.com/dmytra/futhark  <br>
 2 rune_convert: convert Rune to ENGLISH! https://github.com/dmytra/rune_converter <br>
 3 ТЕСТ для Android arm «На Урок» Географія 9 клас https://github.com/dmytra/tested-for-gegraphy-9-class-ukr <br>
