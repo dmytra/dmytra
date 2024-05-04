@@ -42,7 +42,9 @@
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
     </a>
 <hr>
-<b>PORTFOLIO:</b> <a href=https://github.com/dmytra/DOG_her_REST_main>realise simple API: generator dog's FOTO  based at in</a>
+<b>PORTFOLIO:</b> 
+1. <a href=https://github.com/dmytra/DOG_her_REST_main>realise simple API: generator dog's FOTO  based at in</a><br>
+2 <a href=https://github.com/dmytra/bit_operation_stady>bit operation stady / обучение битовим опперациям</a><br>
 <hr>
 <b>RECOMMENDED repository for viewing work:</b> <br>
 1 <a target=”_blank” href=https://github.com/dmytra/Password_generator_entropy>Password_generator_entropy</a>
