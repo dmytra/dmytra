@@ -44,7 +44,10 @@
 <hr>
 <b>PORTFOLIO:</b> 
 1. <a href=https://github.com/dmytra/DOG_her_REST_main>realise simple API: generator dog's FOTO  based at in</a><br>
-2 <a href=https://github.com/dmytra/bit_operation_stady>bit operation stady / обучение битовим опперациям</a><br>
+2 <a href=https://github.com/dmytra/bit_operation_stady>bitwize operation stady / обучение битовим опперациям</a><br>
+3 <a href=https://github.com/dmytra/examples_componovschik9>Examples Linker 9</a><br>
+4 <a href=https://github.com/dmytra/WeatherStation_Weather_in_Singapore->Weather in Singapore .sg Weather Station simple API</a><br>    
+
 <hr>
 <b>RECOMMENDED repository for viewing work:</b> <br>
 1 <a target=”_blank” href=https://github.com/dmytra/Password_generator_entropy>Password_generator_entropy</a>
