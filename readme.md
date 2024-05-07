@@ -67,4 +67,4 @@
 5 rewritten code : Программирование на языке С++ в среде Qt Creator Programmirovanie_na_jazyke_-_v_srede_Qt_Creator  <br>
 more than >> ten  lessons in private
 <hr>
-PS* LEVEL = Trainee Android Developer! without pretentious code.
+PS* LEVEL = Trainee Android Developer! because, without complaints about the code.
