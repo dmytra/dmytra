@@ -62,7 +62,7 @@
 8 <a target=”_blank”  href=https://github.com/dmytra/macdeployqt_batch>macdeployqt_batch> ПАКЕТНАЯ ОБРАБОТКА macdeploy qt и создание -dmg  </a>
 <hr>
 <b>RECOMMENDED repository for STADY:</b> <br>
-0 MVC: c++ sql qml api https://github.com/dmytra/parser_COINCAP.IO
+0 **MVC: c++ sql qml api** https://github.com/dmytra/parser_COINCAP.IO <br>
 1 forked : Cpp17-STL-Cookbook https://github.com/dmytra/Cpp17-STL-Cookbook  <br>
 2 forked : levonoganesyan/Algorithms https://github.com/dmytra/Algorithms  <br>
 3 rewritten code : переработанний курс "Продвинутый курс С++ (2020)" Prodvinutiy-kurs-C-2020-  <br>
