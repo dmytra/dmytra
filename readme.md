@@ -42,7 +42,7 @@
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
     </a>
 <hr>
-<b>PORTFOLIO:</b> 
+<b>PORTFOLIO:</b> <br>
 1. <a href=https://github.com/dmytra/DOG_her_REST_main>realise simple API: generator dog's FOTO  based at in</a><br>
 2 <a href=https://github.com/dmytra/bit_operation_stady>bitwize operation stady / обучение битовим опперациям</a><br>
 3 <a href=https://github.com/dmytra/examples_componovschik9>Examples Linker 9</a><br>
@@ -62,7 +62,7 @@
 8 <a target=”_blank”  href=https://github.com/dmytra/macdeployqt_batch>macdeployqt_batch> ПАКЕТНАЯ ОБРАБОТКА macdeploy qt и создание -dmg  </a>
 <hr>
 <b>RECOMMENDED repository for STADY:</b> <br>
-0 **MVC: c++ sql qml api** https://github.com/dmytra/parser_COINCAP.IO <br>
+0 <b>MVC: c++ sql qml api** https://github.com/dmytra/parser_COINCAP.IO </b><br>
 1 forked : Cpp17-STL-Cookbook https://github.com/dmytra/Cpp17-STL-Cookbook  <br>
 2 forked : levonoganesyan/Algorithms https://github.com/dmytra/Algorithms  <br>
 3 rewritten code : переработанний курс "Продвинутый курс С++ (2020)" Prodvinutiy-kurs-C-2020-  <br>
