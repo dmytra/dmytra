@@ -44,7 +44,7 @@
 <hr>
 <b>PORTFOLIO:</b> <br>
     
-1 <a href=https://github.com/dmytra/parser_bitkon_api.coindesk.com>parser_bitkon_api.coindesk.com </a> https://api.coindesk.com/<br>
+1 <a href=https://github.com/dmytra/parser_bitkon_api.coindesk.com>parser $ £ € to Bitcoin for api.coindesk.com </a> <br>
 2 <a href=https://github.com/dmytra/DOG_her_REST_main>realise simple API: generator dog's FOTO  based at in</a><br>
 3 <a href=https://github.com/dmytra/bit_operation_stady>bitwize operation stady / обучение битовим опперациям</a><br>
 4 <a href=https://github.com/dmytra/char_to_bit_Cryptography->simple char to bit Cryptography</a><br> 
