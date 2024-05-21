@@ -43,12 +43,14 @@
     </a>
 <hr>
 <b>PORTFOLIO:</b> <br>
-1 <a href=https://github.com/dmytra/DOG_her_REST_main>realise simple API: generator dog's FOTO  based at in</a><br>
-2 <a href=https://github.com/dmytra/bit_operation_stady>bitwize operation stady / обучение битовим опперациям</a><br>
-3 <a href=https://github.com/dmytra/char_to_bit_Cryptography->simple char to bit Cryptography</a><br> 
-4 <a href=https://github.com/dmytra/WeatherStation_Weather_in_Singapore->Weather in Singapore .sg Weather Station simple API</a><br> 
-5 <a href=https://github.com/dmytra/examples_componovschik9>Examples Linker 9</a><br>
-6 <a href=https://github.com/dmytra/imageDBinsert>insert foto and image in to DB SQLLite</a><br>
+    
+1 <a href=https://github.com/dmytra/parser_bitkon_api.coindesk.com>parser_bitkon_api.coindesk.com </a> https://api.coindesk.com/<br>
+2 <a href=https://github.com/dmytra/DOG_her_REST_main>realise simple API: generator dog's FOTO  based at in</a><br>
+3 <a href=https://github.com/dmytra/bit_operation_stady>bitwize operation stady / обучение битовим опперациям</a><br>
+4 <a href=https://github.com/dmytra/char_to_bit_Cryptography->simple char to bit Cryptography</a><br> 
+5 <a href=https://github.com/dmytra/WeatherStation_Weather_in_Singapore->Weather in Singapore .sg Weather Station simple API</a><br> 
+6 <a href=https://github.com/dmytra/examples_componovschik9>Examples Linker 9</a><br>
+7 <a href=https://github.com/dmytra/imageDBinsert>insert foto and image in to DB SQLLite</a><br>
     
 * <a href=https://github.com/dmytra/OLD_PORTOLIO_github_dmytra>old portfolio</a>
 
