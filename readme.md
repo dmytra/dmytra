@@ -52,7 +52,7 @@
 6 <a href=https://github.com/dmytra/examples_componovschik9>Examples Linker 9</a><br>
 7 <a href=https://github.com/dmytra/imageDBinsert>insert foto and image in to DB SQLLite</a><br>
     
-* <a href=https://github.com/dmytra/OLD_PORTOLIO_github_dmytra>old portfolio</a>
+* <a href=https://github.com/dmytra/OLD_PORTOLIO_github_dmytra>old portfolio  in poligraphia and partly web: (©) 1998-2020 dmytra bob</a>
 
 <hr>
 <b>RECOMMENDED repository for viewing work:</b> <br>
