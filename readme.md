@@ -1,6 +1,4 @@
 <img width="968" alt="258662523-1ca7e519-e5ca-43ba-9e17-a7ade03bd370" src="https://github.com/dmytra/dmytra/assets/105235692/6878a4f0-b2ec-4295-a217-f4326f9b6923">
-<img width="968" alt="258662523-1ca7e519-e5ca-43ba-9e17-a7ade03bd370" src="https://github.com/dmytra/dmytra/assets/105235692/6878a4f0-b2ec-4295-a217-f4326f9b6923">
-<img width="968" alt="258662523-1ca7e519-e5ca-43ba-9e17-a7ade03bd370" src="https://github.com/dmytra/dmytra/assets/105235692/6878a4f0-b2ec-4295-a217-f4326f9b6923">
 <table style="border:hidden;"><tr><td> 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytra)](https://github.com/dmytra/github-readme-stats)
@@ -77,8 +75,6 @@
 more than >> ten  lessons in private
 <hr>
 PS* LEVEL = Trainee Android Developer! because, without complaints about the code.
+<h1><hr>social project: <a target=_blank href=https://github.com/dmytra/prj_CLEAR_MIND_and_Muhammad-Ali>Muhammad</a></h1>
 <hr>
-<h1>social project: <a target=_blank href=https://github.com/dmytra/prj_CLEAR_MIND_and_Muhammad-Ali>Muhammad</a></h1>
-<hr>
-<h1>social project: <a target=_blank href=https://www.instagram.com/lucius_forever/>VR/AR ZOMBIE reality</a></h1>
-<hr>
+<h1><hr>social project: <a target=_blank href=https://www.instagram.com/lucius_forever/>VR/AR ZOMBIE reality</a></h1>
