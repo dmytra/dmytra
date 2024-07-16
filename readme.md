@@ -76,5 +76,5 @@ more than >> ten  lessons in private
 
 PS* LEVEL = Trainee Android Developer! because, without complaints about the code.
 <h1><hr>social project: <a target=_blank href=https://github.com/dmytra/prj_CLEAR_MIND_and_Muhammad-Ali>Muhammad</a></h1>
-<h1><hr>social project: <a target=_blank href=https://www.instagram.com/lucius_forever/>VR/AR ZOMBIE reality</a></h1>
-<h1><hr>/h1>
+<h1><hr>social project: <a target=_blank href=https://github.com/dmytra/lucius_forever_VR_AR_ZOMBIE_reality>VR/AR ZOMBIE reality</a></h1>
+<h1><hr></h1>
