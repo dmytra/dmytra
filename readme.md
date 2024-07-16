@@ -73,7 +73,8 @@
 4 rewritten code : Qt 6. Разработка оконных приложений на C++ Qt_6__Razrabotka_okonnyh_prilozhenii-_na_Cpp  <br>
 5 rewritten code : Программирование на языке С++ в среде Qt Creator Programmirovanie_na_jazyke_-_v_srede_Qt_Creator  <br>
 more than >> ten  lessons in private
-<hr>
+
 PS* LEVEL = Trainee Android Developer! because, without complaints about the code.
 <h1><hr>social project: <a target=_blank href=https://github.com/dmytra/prj_CLEAR_MIND_and_Muhammad-Ali>Muhammad</a></h1>
 <h1><hr>social project: <a target=_blank href=https://www.instagram.com/lucius_forever/>VR/AR ZOMBIE reality</a></h1>
+<h1><hr>/h1>
