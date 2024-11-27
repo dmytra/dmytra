@@ -7,7 +7,7 @@
 <br>
   
 <blockquote>
-<p dir="auto">I am a C++/Qt && Android programmer </p>
+<p dir="auto">I am a C++/Qt && Android developer</p>
 </blockquote>
 <ul dir="auto">
 <li>💬 Mail：Dmytra75@gmail.com</li>
