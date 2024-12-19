@@ -53,7 +53,7 @@
 7 <a href=https://github.com/dmytra/imageDBinsert>insert foto and image in to DB SQLLite</a><br>
     
 * <a href=https://github.com/dmytra/OLD_PORTOLIO_github_dmytra>old portfolio  in poligraphia and partly web: (©) 1998-2020 dmytra bob</a>
-
+<!--
 <hr>
 <b>RECOMMENDED repository for viewing work:</b> <br>
 1 <a target=”_blank” href=https://github.com/dmytra/Password_generator_entropy>Password_generator_entropy</a>
@@ -78,5 +78,6 @@ PS* LEVEL = Trainee Android Developer! because, without complaints about the cod
 <h1><hr>social project: <a target=_blank href=https://github.com/dmytra/prj_CLEAR_MIND_and_Muhammad-Ali>Muhammad <sup>*</sup>  </a></h1>
 <h1><hr>social project: <a target=_blank href=https://github.com/dmytra/lucius_forever_VR_AR_ZOMBIE_reality>VR/AR ZOMBIE reality</a></h1>
 <h1><hr></h1>
+-->
 
 <a href="https://u8views.com/github/dmytra"><img src="https://u8views.com/api/v1/github/profiles/105235692/views/day-week-month-total-count.svg"></a>
